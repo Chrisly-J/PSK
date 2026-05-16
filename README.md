@@ -160,12 +160,12 @@ plt.show()
 ```
 # Output Waveform:
 # PSK
+<img width="1190" height="790" alt="image" src="https://github.com/user-attachments/assets/1623e780-e71b-4987-991a-c47acff9a3d1" />
 
-<img width="1190" height="790" alt="image" src="https://github.com/user-attachments/assets/dc67d1d7-44b2-4a62-9985-8b9cc51e5d28" />
 
 # QPSK
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/ba1570a3-a26b-48d2-b24f-d3a252da23b3" />
 
-<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/07c87bbe-c122-46d5-ae69-0f52186fdc55" />
 
 # Results:
 Thus PSK and QPSK were performed and the waveform is verified using Google Colab
